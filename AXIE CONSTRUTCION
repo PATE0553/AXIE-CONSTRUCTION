@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Axie Construction - Roofing and Interior Construction</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Axie Construction</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#testimonials">Testimonials</a></li>
+        <li><a href="#contact">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="about">
+      <h2>About Axie Construction</h2>
+      <p>At Axie Construction, we specialize in roofing and interior construction services for both residential and commercial clients. Our team of experienced professionals is dedicated to providing the highest quality workmanship and customer service. We use only the finest materials and latest techniques to ensure that your project is a success. Contact us today to schedule a consultation.</p>
+    </section>
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Roofing: new construction, replacements, repairs, and maintenance</li>
+        <li>Siding</li>
+        <li>Gutters</li>
+        <li>Skylights</li>
+        <li>Interior construction: renovations, remodeling, and new construction</li>
+      </ul>
+    </section>
+    <section id="portfolio">
+      <h2>Our Portfolio</h2>
+      <p>Check out some of our recent projects:</p>
+      <ul>
+        <li><a href="#">Roof Replacement - Residential</a></li>
+        <li><a href="#">Interior Remodel - Commercial</a></li>
+        <li><a href="#">New Construction - Residential</a></li>
+      </ul>
+    </section>
+    <section id="testimonials">
+      <h2>What Our Clients Are Saying</h2>
+      <p>"I was extremely impressed with the quality of work and customer service provided by Axie Construction. They were professional, reliable, and completed the job on time and within budget. I would highly recommend them to anyone in need of roofing or construction services."</p>
+      <p>"Axie Construction did an amazing job on our roof replacement. They were knowledgeable, efficient, and always kept us informed throughout the process. We are extremely satisfied with the results and would definitely use them again for future projects."</p>
+    </section>
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Phone: +1(204)698-1854</p>
+      <p>Email: axierenos@gmail.com</p>
+      <p>Address: Nepean, Ottawa, ON</p>
+    </section>
+  </main>
+  <footer
